@@ -16,7 +16,7 @@ Alfred的有道翻译插件
         "color": "white",
         "spinner": false
       }
-  // 安装Alfred插件，直接双击youdao.alfredworkflow导入即可，导入之后在Alfred的Workflows中打开即可查询源码。
+  // 安装Alfred插件，直接双击youdao.alfredworkflow导入即可，导入之后在Alfred的Workflows中打开即可查看源码。
 ```
 ### 原理
 1、先用node.js查询出结果  
